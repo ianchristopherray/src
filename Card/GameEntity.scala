@@ -1,0 +1,5 @@
+package Card
+
+trait GameEntity {
+
+}
